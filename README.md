@@ -1,1 +1,3 @@
 # MonopolyProject
+
+![Screenshot](.png)
