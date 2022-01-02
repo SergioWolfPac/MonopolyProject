@@ -1,8 +1,7 @@
 # MonopolyProject
 This is a project completed in CS440 that took a finalized software engineering report of a Monpololy Game, and our group implemented the theoretical project into a working prototype. The premise was that there had to be a changeable aspect of the Monopoly game, in this case, the city of which the properties on the board take a reference to can be changed on initial screen. 
 
-## Project Completed by
-
+## Project Screenshot
 
 ![Screenshot](https://github.com/SergioWolfPac/MonopolyProject/blob/main/__pycache__/Screenshot%20(237).png)
 
