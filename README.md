@@ -1,3 +1,3 @@
 # MonopolyProject
 
-![Screenshot](.png)
+![Screenshot](/__pycache__/Screenshot (237).png)
