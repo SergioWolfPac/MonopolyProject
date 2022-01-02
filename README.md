@@ -15,7 +15,6 @@ CS 440 Fall 2020
 Ex. -
 <b>Built with</b>
 - Pycharm 2020.2.3
-DX11
 Written in Python version <b> 3.9 </b>
 Windows 10 10.0 64bit
 
