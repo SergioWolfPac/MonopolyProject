@@ -1,5 +1,5 @@
 # MonopolyProject
-This is a project completed in CS440 that took a finalized software engineering report of a Monpololy Game, and our group implemented the theoretical project into a working prototype. The premise was that there had to be a changeable aspect of the Monopoly game, in this case, the city of which the properties on the board take a reference to can be changed on initial screen. 
+This is a project completed in CS440 that took a finalized software engineering report of a Monpololy Game. Our group implemented the theoretical project into a working prototype. The premise was that there had to be a changeable aspect of the Monopoly game, in this case, the city of which the properties on the board take a reference to can be changed on initialization.
 
 ## Project Screenshot
 
